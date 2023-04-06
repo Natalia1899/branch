@@ -1,0 +1,7 @@
+ID:1
+Summary:The field is missing
+Severity:Critical
+Description:There is no field on the tab
+StepsToReproduce:Look at the attachments
+ActualResult:There is no field on the tab
+ExpectedResult:There is a field on the tab
